@@ -1,0 +1,5 @@
+upload_channels:
+  - sfe1ed40
+channels:
+  - https://staging.continuum.io/prefect/fs/trulens-core-feedstock/pr1/91677ca
+
